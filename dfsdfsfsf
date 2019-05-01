@@ -1,0 +1,78 @@
+[33mcommit fbe07c4b9c0cef20c9dd76a0c78441c3a6ac1b48[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Stefano <stef.plm@hotmail.com>
+Date:   Tue Apr 30 20:45:39 2019 -0300
+
+    Corrección de error tipográfico
+
+[33mcommit a29202e5c7e23ef9cc667159eb2bb55dd7f261ff[m
+Author: Stefano <stef.plm@hotmail.com>
+Date:   Tue Apr 30 20:43:15 2019 -0300
+
+    Se agrego un comando a la lista del readme
+
+[33mcommit 7c12c6d7d5660761b6178db8c23c2eb179677d36[m
+Author: Leandro Gabriel Gomez <gleandro@ceres.solutions>
+Date:   Tue Apr 30 20:36:14 2019 -0300
+
+    Comandos basicos de git
+
+[33mcommit 51fa576e12dbfc565ba797cacfda92f5b03a76bc[m
+Author: Leandro Gabriel Gomez <gleandro@ceres.solutions>
+Date:   Tue Apr 30 20:34:06 2019 -0300
+
+    Agregado contenido al readme.md
+
+[33mcommit 8651547c04545a3da3d6203d472aea2fa8617f12[m
+Author: Leandro Gabriel Gomez <gleandro@ceres.solutions>
+Date:   Tue Apr 30 20:32:17 2019 -0300
+
+    Agregado el README.md
+
+[33mcommit 42e68c1e1e3e1d2cab238d6a9eec0f23579d3593[m
+Author: Leandro Gabriel Gomez <gleandro@ceres.solutions>
+Date:   Tue Apr 30 20:29:42 2019 -0300
+
+    Agregada imagen de modelo de caja
+
+[33mcommit 1f7acd887b853adffce131ba83578fdfc17d4488[m
+Merge: 7cff3e5 7046415
+Author: Leandro Gabriel Gomez <gleandro@ceres.solutions>
+Date:   Tue Apr 30 20:12:41 2019 -0300
+
+    Pull del ultimo commit en el remoto. Fix de conflictos
+
+[33mcommit 7cff3e5fae9247861d368bd6754311970409ee7d[m
+Author: Leandro Gabriel Gomez <gleandro@ceres.solutions>
+Date:   Tue Apr 30 20:09:20 2019 -0300
+
+    Footer del index
+
+[33mcommit 7046415ccf0ecb523a290c28445b1bac3e1f0cda[m
+Author: Leandro Gabriel Gomez <gleandro@ceres.solutions>
+Date:   Tue Apr 30 20:07:35 2019 -0300
+
+    Fix en la indentacion
+
+[33mcommit 3bfc0ef823f4796efae0154497d45ca441f4264b[m
+Author: Leandro Gabriel Gomez <gleandro@ceres.solutions>
+Date:   Tue Apr 30 20:01:51 2019 -0300
+
+    Fix en el index.html
+
+[33mcommit e2c2112468e72b08bddbdb3cd1d45df0cf1b4bfb[m
+Author: Leandro Gabriel Gomez <gleandro@ceres.solutions>
+Date:   Tue Apr 30 19:56:16 2019 -0300
+
+    Cambios en index.html
+
+[33mcommit ca5d5a3c9b40e50b50c79f9586d30a0ea8e99964[m
+Author: Leandro Gabriel Gomez <gleandro@ceres.solutions>
+Date:   Tue Apr 30 19:47:12 2019 -0300
+
+    Agregado contenido al index.html
+
+[33mcommit 36908db39dbc50bb0a70b4c6a2ac0785078a6058[m
+Author: Leandro Gabriel Gomez <gleandro@ceres.solutions>
+Date:   Tue Apr 30 19:35:16 2019 -0300
+
+    Commit inicial
