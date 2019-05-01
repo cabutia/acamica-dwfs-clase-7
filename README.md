@@ -7,4 +7,4 @@ Comandos basicos:
 - `git clone <url del repo>`: Clona el repositorio especificado
 - `git pull origin`: Nos trae al repo local todos los archivos del repo 
 online
-- nano read.me: Editamos el README
+- `nano readme.md`: Editamos el archivo README
